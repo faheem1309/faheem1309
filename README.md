@@ -128,6 +128,52 @@ To build a **globally recognised learning ecosystem** for technology and profess
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80"/>
 </p>
 
+<!-- 🔥 NEWLY ADDED SECTION – DO NOT REMOVE 🔥 -->
+
+<marquee scrollamount="6">
+🆕 NEW PROJECT LAUNCHED • LIVE DEPLOYMENT • INTERACTIVE UI • REAL USERS
+</marquee>
+
+## 🌙 Islamic Quiz App — LIVE PROJECT (24 December 2025)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+</p>
+
+🟢 **Status:** Successfully Completed & Deployed  
+📅 **Completion Date:** 24 December 2025  
+🌐 **Live Demo:** https://islamic-quiz-app-sand.vercel.app  
+📦 **Source Code:** https://github.com/faheem1309/Islamic-quiz-app  
+
+### ✨ Project Overview
+An **interactive Islamic Quiz Web Application** designed to make learning Islamic knowledge engaging, accessible, and visually appealing through smooth transitions and animations.
+
+### ⚙️ Technologies Used
+- React.js  
+- JavaScript (ES6+)  
+- HTML5 & CSS3  
+- Vercel (Deployment)  
+- GitHub (Version Control)
+
+### 🎨 Key Features
+- Animated quiz transitions  
+- Interactive question flow  
+- Clean and responsive UI  
+- Smooth user experience  
+- Production-ready deployment  
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="420"/>
+</p>
+
+> *This project reflects my focus on building real-world, deployed applications with clean UI, animation, and purpose-driven learning.*
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
+
 ## 📚 Certifications & Learning
 
 🎓 **25+ verified certifications** from:
