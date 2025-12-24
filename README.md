@@ -22,7 +22,7 @@
 
 ---
 
-<marquee direction="right" scrollamount="5">
+<marquee direction="center" scrollamount="7">
 ⚡ SYSTEM STATUS: ONLINE • OPEN FOR COLLABORATION • BUILDING REAL-WORLD SOFTWARE
 </marquee>
 
