@@ -1,5 +1,12 @@
 <h1 align="center">Faheem Ahmed</h1>
-<h3 align="center">Computer Science Diploma | Software Developer | Founder – Skillverse Technologies</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=850&lines=Computer+Science+Diploma+Student;Software+Developer;Founder+of+Skillverse+Technologies;Java+%7C+Spring+Boot+%7C+React;Learning+by+Building+%26+Teaching" />
+</p>
+
+<marquee behavior="scroll" direction="left" scrollamount="6">
+🚀 Software Developer | 🌐 Founder – Skillverse Technologies | 💻 Java • Spring Boot • React | 📚 Inclusive • Practical • Real-World Learning
+</marquee>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-faheem-07b053349" target="_blank">
@@ -15,42 +22,35 @@
 
 ---
 
-⚡ **System Status:** `ONLINE`  
-🧠 **Mode:** Learning • Building • Teaching • Scaling
+<marquee direction="right" scrollamount="5">
+⚡ System Status: ONLINE | Open for Collaboration | EdTech • Open Source • Backend & Full Stack
+</marquee>
 
 > *“I don’t just learn technology — I build with it, teach through it, and design it for real people.”*
 
 ---
 
 ## 👋 About Me
-I’m a motivated **Computer Science diploma student and software developer** with hands-on experience in backend systems, web applications, data tools, and open-source learning.  
+I’m a **Computer Science diploma student and software developer** with strong hands-on experience in backend development, web applications, data tools, Linux, and open-source learning.
 
-I am the **Founder of Skillverse Technologies**, a purpose-driven, inclusive EdTech platform built to make **practical, industry-aligned learning accessible to everyone**, especially beginners and differently-abled learners.
-
-I believe technology should be:
-- Practical, not just theoretical  
-- Inclusive, not exclusive  
-- Built to solve real problems  
+I am the **Founder of Skillverse Technologies**, a purpose-driven, inclusive EdTech platform focused on **practical, industry-aligned digital skills**, especially for beginners and differently-abled learners.
 
 ---
+
+<marquee scrollamount="4">
+🏗️ FOUNDER MODE • BUILDING SKILLVERSE • SCALING PRACTICAL EDUCATION • COMMUNITY-DRIVEN LEARNING
+</marquee>
 
 ## 🏗️ Founder – Skillverse Technologies
 **Launched:** 1 November 2025  
 **Platform:** https://skillversetechnologies.talentlms.com  
-**Model:** 100% Digital | Founder-led | Community-driven
+**Model:** 100% Digital | Founder-led | Inclusive EdTech
 
 ### 🎯 Mission
-To make skill-based digital education **affordable, inclusive, and career-focused**, with a strong emphasis on real-world application.
+To make skill-based digital education **affordable, inclusive, and career-focused** with real-world relevance.
 
 ### 🌍 Vision
-To grow Skillverse into a **globally recognised learning ecosystem** spanning technology, professional skills, and career preparation.
-
-### 🔑 Core Strengths
-- Beginner-friendly, practical teaching
-- Accessibility-focused design
-- Affordable & free learning options
-- Remote-first EdTech model
-- Strong roadmap (2026–2028)
+To grow Skillverse into a **globally recognised learning ecosystem** for technology and professional skills.
 
 ---
 
@@ -70,69 +70,57 @@ To grow Skillverse into a **globally recognised learning ecosystem** spanning te
 - DevOps & SRE Fundamentals  
 - Open Source Development (Linux Foundation – LFD102)
 
-### Data & Analytics
-- Power BI  
-- Tableau  
-- Excel  
-- Data Analysis & Visualization  
-
-### Cybersecurity Basics
-- Kali Linux  
-- Cryptography Fundamentals  
-- Information Security Concepts  
+### Data & Cybersecurity Basics
+- Power BI, Tableau, Excel  
+- Kali Linux, Cryptography Fundamentals  
 
 ---
 
+<marquee scrollamount="3">
+🚀 FEATURED PROJECTS • LIVE DEMOS • REAL-WORLD SYSTEMS • PRACTICAL ENGINEERING
+</marquee>
+
 ## 🚀 Featured Projects
 
-### 🔹 Hostel Mess Bill Management System (REST API)
-**Tech:** Java, Spring Boot, MongoDB  
-- Full CRUD backend with RESTful APIs  
-- Designed for real-world hostel operations  
+- **Hostel Mess Bill Management System (REST API)**  
+  Java, Spring Boot, MongoDB  
 
-### 🔹 Employee & Student Management Systems
-**Tech:** Java, Spring Boot, MySQL  
-- API-based and non-API architectures  
-- Strong focus on database design & backend logic  
+- **Employee & Student Management Systems**  
+  Java, Spring Boot, MySQL  
 
-### 🔹 Mario-Style 2D Game
-**Tech:** React.js, JavaScript  
-- Browser-based interactive game  
-- Demonstrates front-end logic and UI handling  
+- **Mario-Style 2D Game**  
+  React.js, JavaScript  
 
-### 🔹 Student Marks Manager (Live)
-**Tech:** React.js, JavaScript, Vercel  
-🔗 Live: https://student-marks-manager.vercel.app  
+- **Student Marks Manager (Live)**  
+  https://student-marks-manager.vercel.app  
 
-### 🔹 Smart Calculator Web App (Live)
-**Tech:** HTML, CSS, JavaScript  
-🔗 Live: https://smart-calculator-web-app.vercel.app  
+- **Smart Calculator Web App (Live)**  
+  https://smart-calculator-web-app.vercel.app  
 
 ---
 
 ## 📚 Certifications & Learning
-- IBM SkillsBuild – Data Fundamentals  
-- Infosys Springboard – Java, React, Web Technologies  
-- Linux Foundation – Linux, DevOps, Open Source  
-- Simplilearn – Full Stack, Cybersecurity, Data Tools  
-
-(25+ verified certifications across tech domains)
+25+ verified certifications from **IBM SkillsBuild, Infosys Springboard, Linux Foundation, Simplilearn**  
+Domains include: Full Stack Development, Data Analytics, Cybersecurity, Linux, DevOps, Open Source.
 
 ---
 
 ## 🧭 Current Focus
-- Preparing for **DCET 2026** → B.E. in Computer Science & Engineering  
+- DCET 2026 → B.E. in Computer Science & Engineering  
+- Advanced Spring Boot & Full Stack Projects  
 - Scaling Skillverse Technologies  
-- Advanced backend & full-stack projects  
-- Open-source contribution  
+- Open Source Contribution  
 
 ---
 
-## 🤝 Collaboration & Opportunities
-I’m open to:
-- Software development collaborations  
-- Open-source projects  
-- EdTech & accessibility-focused initiatives  
-- Learning-focused communities  
+<marquee direction="left" scrollamount="5">
+🤝 COLLABORATION • OPEN SOURCE • EDTECH • ACCESSIBLE TECHNOLOGY • MEANINGFUL IMPACT
+</marquee>
 
-If you’re building something meaningful with tech — let’s connect.
+## 🤝 Collaboration & Opportunities
+- Software development projects  
+- Open-source initiatives  
+- EdTech & accessibility-focused platforms  
+- Learning-driven communities  
+
+Let’s build technology that actually helps people.
