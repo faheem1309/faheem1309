@@ -1,11 +1,11 @@
 <h1 align="center">Faheem Ahmed</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=900&center=true&vCenter=true&width=900&lines=Computer+Science+Diploma+Student;Software+Developer;Founder+of+Skillverse+Technologies;Java+%7C+Spring+Boot+%7C+React;Learning+by+Building+%26+Teaching" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&center=true&vCenter=true&width=1000&lines=Computer+Science+Diploma+Student;Software+Developer;Founder+of+SkillVerse+Technologies;Java+%7C+Spring+Boot+%7C+React+%7C+Python;Learning+by+Building+%26+Teaching" />
 </p>
 
 <marquee scrollamount="6">
-🚀 Software Developer • 🌍 EdTech Founder • 💻 Backend & Full Stack • 📚 Practical & Inclusive Learning
+🚀 Software Developer • 🌍 Inclusive EdTech Founder • 💻 Backend & Full Stack • 📚 Practical Learning • ♿ Accessibility First
 </marquee>
 
 <p align="center">
@@ -16,19 +16,17 @@
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://skillversetechnologies.talentlms.com">
-    <img src="https://img.shields.io/badge/EdTech-Skillverse-0FB9B1?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/EdTech-SkillVerse-0FB9B1?style=for-the-badge"/>
   </a>
 </p>
 
 ---
 
-<marquee direction="center" scrollamount="7">
+<marquee scrollamount="7">
 ⚡ SYSTEM STATUS: ONLINE • OPEN FOR COLLABORATION • BUILDING REAL-WORLD SOFTWARE
 </marquee>
 
 > *“I don’t just learn technology — I apply it, teach it, and scale it.”*
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
@@ -36,27 +34,41 @@
 
 ## 👋 About Me
 
-I’m a **Computer Science diploma student and software developer** with strong hands-on experience in backend systems, web development, databases, Linux, and open-source learning.
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="420"/>
+</p>
 
-I am the **Founder of Skillverse Technologies**, an inclusive EdTech initiative focused on **practical, career-aligned digital skills**, especially for beginners and differently-abled learners.
+I’m a **Computer Science diploma student and software developer** with strong hands-on experience in **web development, backend systems, databases, Linux, DevOps fundamentals, and open-source learning**.
+
+I’m the **Founder of SkillVerse Technologies**, a non-profit, inclusive EdTech initiative focused on **accessible, practical, and career-aligned digital education**, especially for **beginners and differently-abled learners**.
+
+♿ **Identity:** 75% locomotor disability (Cerebral Palsy)  
+💡 **Belief:** Technology is the ultimate equalizer.
 
 ---
 
 <marquee scrollamount="4">
-🏗️ FOUNDER MODE • BUILDING SKILLVERSE • SCALING PRACTICAL EDUCATION • COMMUNITY FIRST
+🏗️ FOUNDER MODE • BUILDING SKILLVERSE • PRACTICAL EDUCATION • COMMUNITY FIRST
 </marquee>
 
-## 🏗️ Founder – Skillverse Technologies
+## 🏗️ Founder – SkillVerse Technologies
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420"/>
+</p>
 
 **Founded:** 1 November 2025  
 **Platform:** https://skillversetechnologies.talentlms.com  
-**Model:** 100% Digital | Founder-led | Inclusive EdTech
+**Model:** Non-profit • Inclusive • Digital-first
 
 ### 🎯 Mission
-To make skill-based digital education **affordable, inclusive, and practical**.
+To make **skill-based digital education affordable, inclusive, and practical**.
 
 ### 🌍 Vision
 To build a **globally recognised learning ecosystem** for technology and professional skills.
+
+### ⏸️ Current Status
+SkillVerse LMS and YouTube initiatives are **temporarily on hold until August 2026** to fully focus on **DCET 2026 preparation**.
 
 ---
 
@@ -64,12 +76,28 @@ To build a **globally recognised learning ecosystem** for technology and profess
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 </p>
 
+## 🧪 Innovation & Workshops
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="420"/>
+</p>
+
+- 🧠 **Hackathon on Assistive Technology (2025)** – AIISH, Mysuru  
+- 🎓 **Career Awareness Workshop** – JSS PDA & EnAble India (26–27 Sept 2025)
+
+---
+
+<marquee scrollamount="4">
+🛠️ TECH STACK • HANDS-ON • PRODUCTION READY
+</marquee>
+
 ## 🛠️ Technical Skill Set
 
 ### 💻 Programming & Frameworks
 - Java, Spring Boot, REST APIs  
 - Python  
-- JavaScript, HTML5, CSS3, React.js  
+- JavaScript (ES6+), HTML5, CSS3  
+- React.js  
 
 ### 🗄️ Databases
 - MySQL  
@@ -77,50 +105,63 @@ To build a **globally recognised learning ecosystem** for technology and profess
 
 ### ⚙️ DevOps, Linux & Open Source
 - Linux Administration (LFS101)  
-- DevOps & SRE Fundamentals  
-- Open Source Development (Linux Foundation – LFD102)
+- DevOps & SRE Fundamentals (LFS162)  
+- Open Source Development (LFD102)  
 
-### 📊 Data & Cybersecurity Basics
-- Power BI, Tableau, Excel  
+### 📊 Data & Cybersecurity
+- Power BI, Tableau, Advanced Excel  
 - Kali Linux, Cryptography Fundamentals  
 
 ---
 
 <marquee scrollamount="4">
-🚀 FEATURED PROJECTS • LIVE DEMOS • PRODUCTION-READY • REAL USERS
+🚀 FEATURED PROJECTS • LIVE DEMOS • REAL USERS
 </marquee>
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects (7)
 
-### 🔹 Hostel Mess Bill Management System (REST API)
-🟢 **Status:** Completed  
-⚙️ **Tech:** Java, Spring Boot, MongoDB  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+</p>
 
----
-
-### 🔹 Employee & Student Management Systems
-🟢 **Status:** Completed  
-⚙️ **Tech:** Java, Spring Boot, MySQL  
+### 🔹 Islamic Quiz App (LIVE)
+⚙️ HTML5 • CSS3 • JavaScript  
+🌐 https://islamic-quiz-app-sand.vercel.app  
 
 ---
 
-### 🔹 Mario-Style 2D Game
-🟢 **Status:** Completed  
-⚙️ **Tech:** React.js, JavaScript  
+### 🔹 Smart Calculator (LIVE)
+⚙️ HTML5 • CSS3 • JavaScript  
+🌐 https://smart-calculator-web-app.vercel.app  
 
 ---
 
 ### 🔹 Student Marks Manager (LIVE)
-🟢 **Status:** Deployed  
-⚙️ **Tech:** React.js, JavaScript, Vercel  
-🔗 https://student-marks-manager.vercel.app  
+⚙️ React.js • JavaScript • Vercel  
+🌐 https://student-marks-manager.vercel.app  
 
 ---
 
-### 🔹 Smart Calculator Web App (LIVE)
-🟢 **Status:** Deployed  
-⚙️ **Tech:** HTML, CSS, JavaScript  
-🔗 https://smart-calculator-web-app.vercel.app  
+### 🔹 Mario-Style 2D Game
+⚙️ React.js • Game Logic  
+📦 Source Code Available  
+
+---
+
+### 🔹 Todo React App
+⚙️ React.js • State Management  
+
+---
+
+### 🔹 Spring Boot CRUD Systems
+⚙️ Java • Spring Boot • MySQL • MongoDB  
+📌 Employee, Student, Bank & Hostel Systems  
+
+---
+
+### 🔹 Zikra – AI Assistant
+⚙️ Python • NLP (TextBlob)  
+🤖 Intelligent task automation  
 
 ---
 
@@ -128,74 +169,32 @@ To build a **globally recognised learning ecosystem** for technology and profess
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80"/>
 </p>
 
-<!-- 🔥 NEWLY ADDED SECTION – DO NOT REMOVE 🔥 -->
-
-<marquee scrollamount="6">
-🆕 NEW PROJECT LAUNCHED • LIVE DEPLOYMENT • INTERACTIVE UI • REAL USERS
-</marquee>
-
-## 🌙 Islamic Quiz App — LIVE PROJECT (24 December 2025)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
-</p>
-
-🟢 **Status:** Successfully Completed & Deployed  
-📅 **Completion Date:** 24 December 2025  
-🌐 **Live Demo:** https://islamic-quiz-app-sand.vercel.app  
-📦 **Source Code:** https://github.com/faheem1309/Islamic-quiz-app  
-
-### ✨ Project Overview
-An **interactive Islamic Quiz Web Application** designed to make learning Islamic knowledge engaging, accessible, and visually appealing through smooth transitions and animations.
-
-### ⚙️ Technologies Used
-- React.js  
-- JavaScript (ES6+)  
-- HTML5 & CSS3  
-- Vercel (Deployment)  
-- GitHub (Version Control)
-
-### 🎨 Key Features
-- Animated quiz transitions  
-- Interactive question flow  
-- Clean and responsive UI  
-- Smooth user experience  
-- Production-ready deployment  
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="420"/>
-</p>
-
-> *This project reflects my focus on building real-world, deployed applications with clean UI, animation, and purpose-driven learning.*
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-</p>
-
 ## 📚 Certifications & Learning
 
-🎓 **25+ verified certifications** from:
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="420"/>
+</p>
+
+🎓 **26+ verified certifications** from:
 - IBM SkillsBuild  
 - Infosys Springboard  
 - Linux Foundation  
 - Simplilearn  
 
-Domains include:
-Full Stack Development • Data Analytics • Cybersecurity • Linux • DevOps • Open Source
+Domains:
+Full Stack • Data Analytics • Cybersecurity • Linux • DevOps • Open Source • AI
 
 ---
 
 <marquee direction="right" scrollamount="5">
-🎯 CURRENT FOCUS • DCET 2026 • ADVANCED BACKEND • OPEN SOURCE • EDTECH SCALING
+🎯 CURRENT FOCUS • DCET 2026 • ADVANCED BACKEND • OPEN SOURCE
 </marquee>
 
 ## 🧭 Current Focus
-- DCET 2026 → B.E. in Computer Science & Engineering  
-- Advanced Spring Boot & Full Stack projects  
-- Scaling Skillverse Technologies  
-- Open Source contribution  
+- 🎯 DCET 2026 → B.E. in Computer Science  
+- 🚀 Advanced Spring Boot & Full Stack projects  
+- 🌱 Open Source contribution  
+- 🔁 SkillVerse relaunch post-2026  
 
 ---
 
@@ -205,11 +204,14 @@ Full Stack Development • Data Analytics • Cybersecurity • Linux • DevOps
 
 ## 🤝 Collaboration & Opportunities
 
-I’m open to:
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="420"/>
+</p>
+
+Open to:
 - Software development collaborations  
 - Open-source initiatives  
 - EdTech & accessibility-focused projects  
-- Learning-driven communities  
 
 <marquee scrollamount="6">
 🤝 COLLABORATE • BUILD • TEACH • LEARN • CREATE IMPACT
