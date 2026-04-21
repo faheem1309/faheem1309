@@ -1,7 +1,7 @@
 # <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&pause=800&color=00F5FF&center=true&vCenter=true&width=700&height=50&lines=FAHEEM+AHMED" alt="Faheem Ahmed"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=900&color=00FF88&center=true&vCenter=true&width=900&lines=Frontend-Focused+Full+Stack+Developer;React+19+%7C+Spring+Boot+%7C+Java+%7C+Python;17+Real-World+Projects+%7C+32+Certifications;Founder+%E2%80%93+SkillVerse+Technologies;Building+Accessible+%26+Scalable+Software;EdTech+Entrepreneur+%7C+Mysuru%2C+India" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=900&color=00FF88&center=true&vCenter=true&width=900&lines=Frontend+Developer+%7C+Full+Stack+Engineer;React+19+%7C+Spring+Boot+%7C+Java+%7C+Python;17+Real-World+Projects+%7C+32+Certifications;Founder+%E2%80%93+SkillVerse+Technologies;DCET+2026+Aspirant+%7C+B.E.+CSE;Building+Accessible+%26+Scalable+Software;EdTech+Entrepreneur+%7C+Mysuru%2C+India" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
   <a href="https://skillversetechnologies.talentlms.com" target="_blank">
     <img src="https://img.shields.io/badge/SkillVerse_LMS-0FB9B1?style=for-the-badge&logo=thingsboard&logoColor=white" alt="SkillVerse LMS"/>
   </a>&nbsp;
-  <a href="https://github.com/MASFMohammed" target="_blank">
+  <a href="https://github.com/faheem1309" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -31,6 +31,8 @@
   <img src="https://img.shields.io/badge/Disability-Cerebral%20Palsy%2075%25-FF006E?style=flat-square&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Belief-Technology%20is%20the%20Universal%20Equalizer-FFD600?style=flat-square&logoColor=black"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/DCET_2026-May%2023%2C%202026-00F5FF?style=flat-square&logoColor=black"/>
 </p>
 
 ---
@@ -38,7 +40,7 @@
 ## 🌟 Live Marquee
 
 <marquee behavior="scroll" direction="left" scrollamount="5">
-⚛️ React 19 &nbsp;•&nbsp; ☕ Java &nbsp;•&nbsp; 🌿 Spring Boot &nbsp;•&nbsp; 🐍 Python &nbsp;•&nbsp; 📱 PWA &nbsp;•&nbsp; 🔗 REST APIs &nbsp;•&nbsp; 🗄️ MySQL &nbsp;•&nbsp; 🍃 MongoDB &nbsp;•&nbsp; ☸️ Kubernetes &nbsp;•&nbsp; 🐧 Linux &nbsp;•&nbsp; 🎨 GSAP &nbsp;•&nbsp; ⚡ JavaScript ES6+ &nbsp;•&nbsp; 📦 17 Projects &nbsp;•&nbsp; 📜 32 Certifications &nbsp;•&nbsp; 🎓 SkillVerse Technologies &nbsp;•&nbsp; ♿ Accessibility-First Design &nbsp;•&nbsp; 🚀 EdTech Entrepreneur &nbsp;•&nbsp; 💡 Universal Equalizer &nbsp;•&nbsp;
+⚛️ React 19 &nbsp;•&nbsp; ☕ Java &nbsp;•&nbsp; 🌿 Spring Boot &nbsp;•&nbsp; 🐍 Python &nbsp;•&nbsp; 📱 PWA &nbsp;•&nbsp; 🔗 REST APIs &nbsp;•&nbsp; 🗄️ MySQL &nbsp;•&nbsp; 🍃 MongoDB &nbsp;•&nbsp; ☸️ Kubernetes &nbsp;•&nbsp; 🐧 Linux &nbsp;•&nbsp; 🎨 GSAP &nbsp;•&nbsp; ⚡ JavaScript ES6+ &nbsp;•&nbsp; 📦 17 Projects &nbsp;•&nbsp; 📜 32 Certifications &nbsp;•&nbsp; 🎓 SkillVerse Technologies &nbsp;•&nbsp; ♿ Accessibility-First Design &nbsp;•&nbsp; 🚀 EdTech Entrepreneur &nbsp;•&nbsp; 🎯 DCET 2026 &nbsp;•&nbsp; 💡 Universal Equalizer &nbsp;•&nbsp;
 </marquee>
 
 ---
@@ -64,6 +66,8 @@ I have built and deployed **17 real-world projects** spanning frontend systems, 
 
 I am the **Founder of SkillVerse Technologies**, a non-profit inclusive learning initiative built on **Universal Design principles** — making technology education accessible, practical, and beginner-friendly, especially for **differently-abled learners**.
 
+Currently preparing for **DCET 2026 (May 23, 2026)** to pursue **B.E. in Computer Science and Engineering**.
+
 > ♿ **Locomotor Disability (Cerebral Palsy – 75%)**
 > 💡 **Core Belief:** Technology is the Universal Equalizer — it transcends every physical barrier through code.
 
@@ -74,6 +78,7 @@ I am the **Founder of SkillVerse Technologies**, a non-profit inclusive learning
 | Qualification | Institution | Year | Score |
 |---|---|---|---|
 | 🎓 Diploma in CSE | JSS Polytechnic for the Differently Abled, Mysuru | 2023–2026 | In Progress |
+| 🎯 DCET 2026 | Diploma Common Entrance Test | May 23, 2026 | Appearing |
 | 📗 PUC (EBAC) | SVG Vishwaprajna Composite PU College | 2022 | **86%** |
 | 📘 SSLC | Vishwamanava Vidyanikethana | 2019 | **88%** |
 
@@ -239,15 +244,6 @@ I am the **Founder of SkillVerse Technologies**, a non-profit inclusive learning
 
 ## 🎯 Current Focus
 
-```
-⚛️  Industry-ready Frontend & Full-Stack Development
-🏗️  Advanced Backend System Design — Spring Boot
-♿  Building Accessible & Scalable Software
-🎓  SkillVerse Technologies — EdTech Content & Platform Growth
-🌍  Open-Source Learning & Contribution
-🤝  Software Development Collaborations
-```
-
 ---
 
 ## 🤝 Open To
@@ -256,6 +252,7 @@ I am the **Founder of SkillVerse Technologies**, a non-profit inclusive learning
 - 🌍 Open-source projects
 - ♿ Accessibility-focused & EdTech initiatives
 - 💼 Frontend / Full-Stack Developer roles
+- 🎓 DCET 2026 — B.E. CSE admission
 
 ---
 
@@ -269,5 +266,5 @@ I am the **Founder of SkillVerse Technologies**, a non-profit inclusive learning
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MASFMohammed&label=Profile+Views&color=00F5FF&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=faheem1309&label=Profile+Views&color=00F5FF&style=flat-square" alt="Profile Views"/>
 </p>
