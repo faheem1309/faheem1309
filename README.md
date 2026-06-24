@@ -1,7 +1,7 @@
 # <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&pause=800&color=00F5FF&center=true&vCenter=true&width=700&height=50&lines=FAHEEM+AHMED" alt="Faheem Ahmed"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=900&color=00FF88&center=true&vCenter=true&width=900&lines=Frontend+Developer+%7C+Full+Stack+Engineer;React+19+%7C+Spring+Boot+%7C+Java+%7C+Python;17+Real-World+Projects+%7C+32+Certifications;Founder+%E2%80%93+SkillVerse+Technologies;DCET+2026+Aspirant+%7C+B.E.+CSE;Building+Accessible+%26+Scalable+Software;EdTech+Entrepreneur+%7C+Mysuru%2C+India" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=900&color=00FF88&center=true&vCenter=true&width=900&lines=Frontend+Developer+%7C+Full+Stack+Engineer;React+19+%7C+Spring+Boot+%7C+Java+%7C+Python;17+Real-World+Projects+%7C+32+Certifications;Founder+%26+CEO+%E2%80%93+SkillVerse+Technologies;DCET+2026+Cleared+%7C+Aspiring+B.E.+CSE;Building+Accessible+%26+Scalable+Software;EdTech+Entrepreneur+%7C+Mysuru%2C+India" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Belief-Technology%20is%20the%20Universal%20Equalizer-FFD600?style=flat-square&logoColor=black"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/DCET_2026-May%2023%2C%202026-00F5FF?style=flat-square&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DCET_2026-Cleared%20May%2023%2C%202026-00F5FF?style=flat-square&logoColor=black"/>
 </p>
 
 ---
@@ -40,7 +40,7 @@
 ## 🌟 Live Marquee
 
 <marquee behavior="scroll" direction="left" scrollamount="5">
-⚛️ React 19 &nbsp;•&nbsp; ☕ Java &nbsp;•&nbsp; 🌿 Spring Boot &nbsp;•&nbsp; 🐍 Python &nbsp;•&nbsp; 📱 PWA &nbsp;•&nbsp; 🔗 REST APIs &nbsp;•&nbsp; 🗄️ MySQL &nbsp;•&nbsp; 🍃 MongoDB &nbsp;•&nbsp; ☸️ Kubernetes &nbsp;•&nbsp; 🐧 Linux &nbsp;•&nbsp; 🎨 GSAP &nbsp;•&nbsp; ⚡ JavaScript ES6+ &nbsp;•&nbsp; 📦 17 Projects &nbsp;•&nbsp; 📜 32 Certifications &nbsp;•&nbsp; 🎓 SkillVerse Technologies &nbsp;•&nbsp; ♿ Accessibility-First Design &nbsp;•&nbsp; 🚀 EdTech Entrepreneur &nbsp;•&nbsp; 🎯 DCET 2026 &nbsp;•&nbsp; 💡 Universal Equalizer &nbsp;•&nbsp;
+⚛️ React 19 &nbsp;•&nbsp; ☕ Java &nbsp;•&nbsp; 🌿 Spring Boot &nbsp;•&nbsp; 🐍 Python &nbsp;•&nbsp; 📱 PWA &nbsp;•&nbsp; 🔗 REST APIs &nbsp;•&nbsp; 🗄️ MySQL &nbsp;•&nbsp; 🍃 MongoDB &nbsp;•&nbsp; ☸️ Kubernetes &nbsp;•&nbsp; 🐧 Linux &nbsp;•&nbsp; 🎨 GSAP &nbsp;•&nbsp; ⚡ JavaScript ES6+ &nbsp;•&nbsp; 📦 17 Projects &nbsp;•&nbsp; 📜 32 Certifications &nbsp;•&nbsp; 🎓 SkillVerse Technologies &nbsp;•&nbsp; ♿ Accessibility-First Design &nbsp;•&nbsp; 🚀 EdTech Entrepreneur &nbsp;•&nbsp; 🎯 DCET 2026 Cleared &nbsp;•&nbsp; 💡 Universal Equalizer &nbsp;•&nbsp;
 </marquee>
 
 ---
@@ -61,12 +61,12 @@
 
 ## 👨‍💻 Professional Overview
 
-I am a **Computer Science Diploma student and software developer** with hands-on experience building **production-ready web applications** using **React 19, JavaScript (ES6+), Spring Boot, and Python**.
+I am a **Full-Stack Web Engineer, Cloud & AI Solutions Architect, and Digital Educator** with hands-on experience building **production-ready web applications** using **React 19, JavaScript (ES6+), Spring Boot, and Python**.
 I have built and deployed **17 real-world projects** spanning frontend systems, backend APIs, Progressive Web Applications, and AI prototypes.
 
-I am the **Founder of SkillVerse Technologies**, a non-profit inclusive learning initiative built on **Universal Design principles** — making technology education accessible, practical, and beginner-friendly, especially for **differently-abled learners**.
+I am the **Founder & CEO of SkillVerse Technologies**, a non-profit inclusive learning initiative built on **Universal Design principles** — making technology education accessible, practical, and beginner-friendly, especially for **differently-abled learners**.
 
-Currently preparing for **DCET 2026 (May 23, 2026)** to pursue **B.E. in Computer Science and Engineering**.
+I cleared **DCET 2026 on May 23, 2026** and am now pursuing admission into **B.E. in Computer Science and Engineering**.
 
 > ♿ **Locomotor Disability (Cerebral Palsy – 75%)**
 > 💡 **Core Belief:** Technology is the Universal Equalizer — it transcends every physical barrier through code.
@@ -77,24 +77,43 @@ Currently preparing for **DCET 2026 (May 23, 2026)** to pursue **B.E. in Compute
 
 | Qualification | Institution | Year | Score |
 |---|---|---|---|
-| 🎓 Diploma in CSE | JSS Polytechnic for the Differently Abled, Mysuru | 2023–2026 | In Progress |
-| 🎯 DCET 2026 | Diploma Common Entrance Test | May 23, 2026 | Appearing |
+| 🎓 Diploma in CSE | JSS Polytechnic for the Differently Abled, Mysuru | 2023–2026 | Completed |
+| 🎯 DCET 2026 | Diploma Common Entrance Test | May 23, 2026 | **Cleared** |
 | 📗 PUC (EBAC) | SVG Vishwaprajna Composite PU College | 2022 | **86%** |
 | 📘 SSLC | Vishwamanava Vidyanikethana | 2019 | **88%** |
 
 ---
 
-## 🚀 Entrepreneurship & Social Impact
+## 💼 Experience
 
-### 🏗️ SkillVerse Technologies — Founder & LMS Administrator
+### 🏗️ Founder & CEO — SkillVerse Technologies
 **Non-Profit EdTech Platform | Nov 2025 – Present**
 
-- 🔹 Founded and manage an inclusive online learning platform built on **TalentLMS**
+- 🔹 Lead strategy, ecosystem development, technical planning, and organizational growth for an inclusive EdTech platform built on **TalentLMS**
 - 🔹 Designed structured courses and digital literacy programs for accessible education
 - 🔹 Develop educational content and technology tutorials for beginner learners
-- 🔹 Running a **YouTube channel** with skill tutorials for beginners and homemakers
+- 🔹 Manage end-to-end backend configuration, accessibility layouts, and student learning path structures
 
 🔗 **[skillversetechnologies.talentlms.com](https://skillversetechnologies.talentlms.com)**
+
+### 🎥 Technical Content Creator & Educator — YouTube
+**Jun 2025 – Present**
+
+- 🔹 Create beginner-friendly technology tutorials for non-technical learners and homemakers
+- 🔹 Manage scripting, recording, and community engagement
+
+### 📊 Program Monitoring & Evaluation Intern — Magic Bus India Foundation (MBIF), Bengaluru
+**Dec 2025 – Apr 2026 | Reg. No: CS2334017 — Cert. No: ECPL/INT/2026/011 — 16 Weeks (640 Hours)**
+
+- 🔹 Monitored attendance and program performance data across multiple youth livelihood training batches
+- 🔹 Cleaned and standardized large raw datasets, eliminating duplicates and restructuring fragmented reporting layouts
+- 🔹 Engineered weekly data tracking dashboards for management review using advanced Excel and Google Sheets
+- 🔹 Served as the technical link between field training operations and executive digital reporting pipelines
+
+### 🛠️ Technology Specialist — AIISH (All India Institute of Speech and Hearing), Mysuru
+**Feb 2025**
+
+- 🔹 Participated in accessibility and assistive technology innovation initiatives
 
 ---
 
@@ -244,6 +263,10 @@ Currently preparing for **DCET 2026 (May 23, 2026)** to pursue **B.E. in Compute
 
 ## 🎯 Current Focus
 
+- 🎓 Pursuing admission into **B.E. in Computer Science and Engineering** after clearing DCET 2026
+- 🏗️ Scaling **SkillVerse Technologies** as Founder & CEO
+- 🎥 Growing the **YouTube tech-education channel** for beginners and homemakers
+
 ---
 
 ## 🤝 Open To
@@ -252,7 +275,7 @@ Currently preparing for **DCET 2026 (May 23, 2026)** to pursue **B.E. in Compute
 - 🌍 Open-source projects
 - ♿ Accessibility-focused & EdTech initiatives
 - 💼 Frontend / Full-Stack Developer roles
-- 🎓 DCET 2026 — B.E. CSE admission
+- 🎓 B.E. CSE admission (post-DCET 2026)
 
 ---
 
